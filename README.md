@@ -30,9 +30,32 @@ Hello everyone! I'm Boreddy Manoj Reddy, a Data Engineer 🚀 originally from Hy
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
 <img
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
-
-  
+<img
+src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" height="40" style="vertical-align:top; margin:4px">
+<img
+src="https://banner2.cleanpng.com/20180808/kjb/d953af211416dca5c40fc994081c199e.webp" height="40" style="vertical-align:top; margin:4px">
+<img
+src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" style="vertical-align:top; margin:4px">
+<img
+src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_169299.png" height="40" style="vertical-align:top; margin:4px">
 </p>
+<p align="center">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  height="40" style="vertical-align:top; margin:4px"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"  height="40" style="vertical-align:top; margin:4px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" style="vertical-align:top; margin:4px"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="40" style="vertical-align:top; margin:4px"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="40" style="vertical-align:top; margin:4px"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="40" style="vertical-align:top; margin:4px"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="40" style="vertical-align:top; margin:4px"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"  height="40" style="vertical-align:top; margin:4px"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" style="vertical-align:top; margin:4px"/> </a> 
+</p>
+
+# 📈 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boreddymanojreddy&show_icons=true&locale=en" alt="boreddymanojreddy" /></p>
+
+
+
 
 
 
