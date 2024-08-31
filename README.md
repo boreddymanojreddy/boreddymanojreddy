@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 Hello everyone! I'm Boreddy Manoj Reddy, a Data Engineer 🚀 originally from Hyderabad, India.With a strong foundation from my Bachelor of Technology in Computer Science Engineering, I'm continuously expanding my skills by contributing to various open-source projects and developing numerous personal projects.My interests lie primarily in Data Engineer, Big Data, Machine Learning and Data Science, and I'm passionate about exploring the latest technologies in these fields.
 
 ## Talking about Personal Stuffs:
